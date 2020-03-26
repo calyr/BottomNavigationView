@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BNProject</string>
+    <string name="home_menu">Inicio</string>
+    <string name="profile_menu">Perfil</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment_title">Fragmento Home</string>
+    <string name="profile_fragment_title">Fragmento Profile</string>
+</resources>
